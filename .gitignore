@@ -1,0 +1,10 @@
+*.o
+*.d
+*.gcda
+*.gcno
+/*.gcov
+gmon.out
+/sort_main
+/sort_profile
+/test_basic
+/bench_sort
